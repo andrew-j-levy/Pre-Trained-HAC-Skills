@@ -4,7 +4,7 @@ This repository provides software to construct skills using pre-trained Hierarch
 2. Move to center of room
 3. Move to southern door of room.
 
-To visualize the skills without the HAC subgoals, remove the *--subgoals* option.  To train agent without the visualization, remove the *--show* option.
+To visualize the skills without the HAC subgoals, remove the *--subgoals* option.  To train agent without the visualization, remove the *--show* option.  The following [video](https://www.youtube.com/watch?v=8UXgVEpAyDk) shows a preview of these skills.
 
 Skills can be constructed/modified using the *execute_skill.py, agent.py,* and *environment.py* files.
 
