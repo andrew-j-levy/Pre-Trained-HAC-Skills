@@ -18,7 +18,6 @@ Removing the "--subgoals" option will hide the HAC subgoals.  Removing the
 from design_agent_and_env import design_agent_and_env
 from options import parse_options
 from agent import Agent
-from run_HAC import run_HAC
 from execute_skill import execute_skill
 import numpy as np
 
